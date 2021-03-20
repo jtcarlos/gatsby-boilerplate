@@ -1,3 +1,4 @@
-# radiant-satisfaction
+# Gatsby Boilerplate
 
-An expense management system aimed to help its user track their incomes &amp; expenditures, as well as manage their bills and savings.
+This serves as my GatsbyJS boilerplate for all my future projects  
+Happy coding 😃
